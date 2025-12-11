@@ -1,0 +1,28 @@
+// //Given an integer num, repeatedly add all its digits until the result has only one digit, and return it.
+// #include <iostream>
+// using namespace std;
+
+// int main()
+// {
+//     int num ;
+//     cout<<"enter the number";
+//     cin>>num;
+
+//     while (num > 9) 
+//     {
+//         int ans = 0;          // reset sum every round
+
+//         while (num != 0)
+//         {
+//             int rem = num % 10;
+//             ans += rem;
+//             num /= 10;
+//         }
+
+//         num = ans;            // update num to new sum
+//     }
+
+//     cout << num;              // print final single digit
+
+//     return 0;
+// }
