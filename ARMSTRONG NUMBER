@@ -1,0 +1,32 @@
+// ARMSTRONG NUMBER
+#include <iostream>
+#include<cmath>
+using namespace std;
+int countDigit(int n){  // finding number of digit
+    int count=0;
+    while(n){
+        count++;
+        n/=10;
+    }
+    return count;
+}
+bool Armstong (int num,int digit){    // find armstrong number
+    int n=num,ans=0,rem;
+    while(n){
+        rem=n%10;
+        n/=10;
+        ans=ans+pow(rem,digit);
+    }
+    if (ans==num)
+    return 1;
+    else
+    return 0;
+}
+int main()
+{
+    int num;
+    cin>>num;
+    int digit=countDigit(num);
+    cout<<Armstong(num,digit);
+return 0;
+}
