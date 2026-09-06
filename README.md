@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
